@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-pm2 = cli_anything.pm2.pm2_cli:main
